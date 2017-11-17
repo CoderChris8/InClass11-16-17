@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Chris";
+    src: url(font/opensanscondensed-bold.ttf);
+}
+.first-class{
+    font-family: 'roboto';
+    font-size: 24px;
+
+}
